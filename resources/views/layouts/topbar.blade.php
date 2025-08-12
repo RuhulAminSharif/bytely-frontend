@@ -115,7 +115,7 @@
 
 <header class="fixed top-0 left-0 right-0 bg-[#fcfce2] flex justify-between items-center
 px-3 sm:px-4 md:px-6 lg:px-[5%] py-2 sm:py-3 md:py-4 shadow-md font-medium
-text-sm sm:text-base md:text-lg lg:text-xl h-14 sm:h-16 md:h-20">
+text-sm sm:text-base md:text-lg lg:text-xl h-14 sm:h-16 md:h-20 z-10">
 
   {{-- Mobile Left Navigation --}}
   <nav class="xl:hidden mobileLeft">

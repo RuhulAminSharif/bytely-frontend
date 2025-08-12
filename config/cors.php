@@ -21,8 +21,6 @@ return [
 
     'allowed_origins' => [
         '*',
-        'https://byetly.lovestoblog.com',
-        'http://byetly.lovestoblog.com',
     ],
 
     'allowed_origins_patterns' => ['*'],
