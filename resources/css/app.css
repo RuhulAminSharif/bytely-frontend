@@ -18,7 +18,30 @@
     --secondary-gold: #f2b25a;
 
     /* --primary-background: #fcfce2; */
-    --primary-background: #f8f8f6;
+    --primary-background: white;
+    --section-background: #f0ede64c;
+
+    --icon-background: #fbfaf9;
+
+    --text-bg: #e8d6c9;
+
+    --item-bg1: #3B82F61A;
+    --item-bg2: #A855F71A;
+    --item-bg3: #22C55E1A;
+    --item-bg4: #F973161A;
+    --item-bg5: #EAB3081A;
+    --item-bg6: #EF44441A;
+
+    --item-border1: #3B82F6;
+    --item-border2: #A855F7;
+    --item-border3: #22C55E;
+    --item-border4: #F97316;
+    --item-border5: #EAB308;
+    --item-border6: #EF4444;
+
     --primary-text: #2b303b;
+    --secondary-text: #626d84;
+    --white-text: #f8f8f6;
+
 
 }
