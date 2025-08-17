@@ -40,10 +40,10 @@
 
 @endphp
 
-<section class="relative m-4 xl:m-20   overflow-hidden">
+<section class="relative m-4 mt-10 xl:m-20   overflow-hidden">
   <div class="max-w-[1440px] bg-[var(--section-background)] mx-auto">
     <div class="flex flex-col items-center justify-center space-y-4 text-center">
-      <h2 class="text=4xl md:text-5xl font-bold text-[var(--primary-text)]">
+      <h2 class="text-2xl md:text-4xl xl:text-5xl font-bold text-[var(--primary-text)]">
         <span> <i class="fas fa-thin fa-book-open"></i> </span>
         Explore Categories
       </h2>

@@ -17,5 +17,13 @@
         <!--=============================
             Explore Categories END
         ==============================-->
+
+        <!--=============================
+            ALL LEARNING SECTIONS START
+        ==============================-->
+        @include('home.components.all_learning_sections')
+        <!--=============================
+            ALL LEARNING SECTIONS END
+        ==============================-->
     </main>
 @endsection
