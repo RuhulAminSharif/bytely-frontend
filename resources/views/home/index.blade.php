@@ -25,5 +25,13 @@
         <!--=============================
             ALL LEARNING SECTIONS END
         ==============================-->
+
+        <!!--=============================
+            Latest Articles START
+        ==============================-->
+        @include('home.components.latest_articles')
+        <!--=============================
+            Latest Articles END
+        ==============================-->
     </main>
 @endsection
